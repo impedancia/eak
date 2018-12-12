@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Dec 11 19:20:20 CET 2018:
+ Derby The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579) változat betöltése: a816c00e-0167-9e7f-90c6-00000568d268 példány
+a(z) D:\dev\eak\workspaceSEA\elf-jpa-test\elf-jpa-db adatbázis-könyvtáron: sun.misc.Launcher$AppClassLoader@6a6824be 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=D:\dev\eak\workspaceSEA\elf-jpa-test
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Az adatbázis-osztálybetöltõ elindult - derby.database.classpath=''

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="var" path="PERS"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/elf-jpa"/>
+	<classpathentry kind="var" path="DERBY"/>
+	<classpathentry kind="var" path="DERBYCLIENT"/>
+	<classpathentry kind="var" path="ECLIPSELINK"/>
+	<classpathentry kind="lib" path="D:/dev/eak/programs/db-derby-10.14.2.0-bin/lib/derby.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/EclipseLink 2.5.2">
+		<attributes>
+			<attribute name="owner.project.facets" value="jpt.jpa"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

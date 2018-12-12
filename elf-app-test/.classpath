@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="GLASSFISH/glassfish/lib/gf-client.jar"/>
+	<classpathentry kind="src" path="/elf-iface"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="var" path="DERBY"/>
+	<classpathentry kind="var" path="DERBYCLIENT"/>
+	<classpathentry kind="var" path="ECLIPSELINK"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
